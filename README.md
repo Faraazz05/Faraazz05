@@ -1,8 +1,8 @@
-# Hi there, I'm Faraz 👋
+# Hi there, This is Faraz 👋
 
 ## 🚀 About Me
 
-I’m Faraz, an aspiring AI researcher exploring the edges of machine learning, generative models, and intelligent systems. My work sits at the intersection of research and application—from studying AI ethics and governance to experimenting with foundation models and adaptive learning systems.
+I’m Mohd Faraz, an aspiring AI researcher exploring the edges of machine learning, generative models, and intelligent systems. My work sits at the intersection of research and application—from studying AI ethics and governance to experimenting with foundation models and adaptive learning systems.
 
 Before focusing fully on AI, I worked on contract-based projects in marketing, product management, and community building. That mix of technical depth and real-world execution taught me how to move between big-picture strategy and hands-on problem solving.
 
