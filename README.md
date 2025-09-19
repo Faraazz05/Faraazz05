@@ -126,10 +126,10 @@ Before focusing fully on AI, I worked on contract-based projects in marketing, p
 [![Creator Growth Navigator](https://github-readme-stats.vercel.app/api/pin/?username=Faraazz05&repo=GitHubCreator-Growth-Navigator&theme=radical)](https://github.com/Faraazz05/GitHubCreator-Growth-Navigator)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spmohdfaraz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Faraazz05)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faraazz05)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@farazz05)
-[![Instagram](https://img.shields.io/badge/Creative_Writing-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/notesbyfaraz)
+[![Instagram](https://img.shields.io/badge/Insta-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Faraazz05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spmohdfaraz@outlook.com)
 
 ---
