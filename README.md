@@ -120,10 +120,6 @@ Before focusing fully on AI, I worked on contract-based projects in marketing, p
 - DSA, OOP, testing, version control, performance optimization, system design
 
 
-## 📈 Featured Projects
-[![Stock Prediction System](https://github-readme-stats.vercel.app/api/pin/?username=Faraazz05&repo=GitHubStockPredictionPro&theme=radical)](https://github.com/Faraazz05/GitHubStockPredictionPro)
-[![Real Estate Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Faraazz05&repo=GitHubReal-Estate-Price-Prediction&theme=radical)](https://github.com/Faraazz05/GitHubReal-Estate-Price-Prediction)
-[![Creator Growth Navigator](https://github-readme-stats.vercel.app/api/pin/?username=Faraazz05&repo=GitHubCreator-Growth-Navigator&theme=radical)](https://github.com/Faraazz05/GitHubCreator-Growth-Navigator)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Faraazz05)
