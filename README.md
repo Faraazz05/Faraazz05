@@ -23,7 +23,6 @@ Before focusing fully on AI, I worked on contract-based projects in marketing, p
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Faraazz05&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraazz05&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🛠️ Skills
